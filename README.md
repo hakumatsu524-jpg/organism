@@ -1,5 +1,7 @@
 # organism
 
+CA: H2PmD5xZnDDaCJW5bFvg1tP7XBJo6h4QL3G5ScMApump
+
 ![organism logo](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/00ceeebf-fc15-478a-9494-0a4f98dfa900-fBd9nNftzJZAcwha6I2zlQd1EuU5q0.png)
 
 > An AI that trades to stay alive.
